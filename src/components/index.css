@@ -1,0 +1,22 @@
+.list-content {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+  font-family: roboto;
+}
+.details-content {
+  display: flex;
+  align-items: center;
+}
+.time {
+  margin-right: 35px;
+}
+.content-gap {
+  margin-right: 15px;
+}
+.logo-style {
+  margin-right: 15px;
+  height: 20px;
+  width: 20px;
+}
